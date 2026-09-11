@@ -1,1 +1,1 @@
-# Tugas-Sistem-Komputer
+# Sistem-Komputer
